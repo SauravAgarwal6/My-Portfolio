@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Real-Time Chat App",
+    "desc": "A full-stack chat application built with the MERN stack and Socket.IO for real-time, bi-directional communication between users.",
+    "image": "chat-app-image-name",
+    "category": "mern",
+    "links": {
+      "view": "https://full-stack-chat-app-ztvs.onrender.com/",
+      "code": "https://github.com/SauravAgarwal6/Full-Stack-Chat-App"
+    }
+  },
+  {
+    "name": "Personal Portfolio",
+    "desc": "My personal portfolio website to showcase my skills, projects, and experience. Built with HTML, CSS, and modern JavaScript.",
+    "image": "portfolio-image-name",
+    "category": "basicweb",
+    "links": {
+      "view": "https://66f6a58b778c4d47b6eb3eca--shiny-zuccutto-d116d0.netlify.app/",
+      "code": "https://github.com/SauravAgarwal6/Portfolio"
+    }
+  },
+  {
+    "name": "Video Call App",
+    "desc": "A web-based video calling application demonstrating WebRTC functionalities for peer-to-peer connections.",
+    "image": "call-app-image-name",
+    "category": "mern",
+    "links": {
+      "view": "https://call-app-by-saurav.netlify.app/",
+      "code": "https://github.com/SauravAgarwal6/Call-App"
+    }
+  },
+  {
+    "name": "Spotify Clone",
+    "desc": "A clone of the Spotify web player user interface, focusing on recreating the front-end experience using HTML, CSS, and JavaScript.",
+    "image": "spotify-clone-image-name",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/SauravAgarwal6/Spotify-Clone"
+    }
+  },
+  {
+    "name": "Movie Recommendation System",
+    "desc": "A recommendation engine built using Python and Machine Learning to suggest movies to users based on their viewing history and preferences.",
+    "image": "movie-rec-image-name",
+    "category": "python",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
