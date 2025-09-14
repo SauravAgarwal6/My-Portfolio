@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-![Portfolio Screenshot](<img width="1909" height="913" alt="image" src="https://github.com/user-attachments/assets/bfa51f27-34fa-40b4-a2f4-eee4b3ea3f20" />
+![Portfolio Screenshot] (<img width="1900" height="910" alt="portfolio-image-name" src="https://github.com/user-attachments/assets/cbee78ba-8554-4a1d-87c0-3c01a623c90a" />
 )
 
 A clean, modern, and fully responsive personal portfolio website built to showcase my skills, projects, and professional experience.
