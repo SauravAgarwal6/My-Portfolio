@@ -1,6 +1,7 @@
 # Personal Portfolio Website
 
-![Portfolio Screenshot](https://placehold.co/800x400/2d3748/ffffff?text=Your+Portfolio+Screenshot)
+![Portfolio Screenshot](<img width="1909" height="913" alt="image" src="https://github.com/user-attachments/assets/bfa51f27-34fa-40b4-a2f4-eee4b3ea3f20" />
+)
 
 A clean, modern, and fully responsive personal portfolio website built to showcase my skills, projects, and professional experience.
 
@@ -43,7 +44,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/SauravAgarwal6/Portfolio.git](https://github.com/SauravAgarwal6/Portfolio.git)
+    git clone [https://github.com/SauravAgarwal6/My-Portfolio.git]
     ```
 2.  **Navigate to the project directory:**
     ```sh
@@ -65,5 +66,5 @@ This portfolio is automatically deployed using **Netlify**. Every push to the `m
 Saurav Agarwal
 
 * **GitHub:** [@SauravAgarwal6](https://github.com/SauravAgarwal6)
-* **LinkedIn:** `[Your LinkedIn Profile URL]`
-* **Email:** `your.email@example.com`
+* **LinkedIn:** `[https://www.linkedin.com/in/saurav-kumar663/]`
+* **Email:** `sauravplace7277@gmail.com`
